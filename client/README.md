@@ -3,8 +3,8 @@
 A full-stack expense tracking application built with Node.js + Express (backend) and React + Vite (frontend). Users can log daily expenses across categories, view summaries, and visualize spending with charts.
 
 ## Live Demo
-- Frontend: (add after deployment)
-- Backend: (add after deployment)
+- Frontend: https://expense-tracker-sable-five-33.vercel.app
+- Backend: https://expense-tracker-afxj.onrender.com
 
 ## Tech Stack
 
