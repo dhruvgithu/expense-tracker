@@ -3,7 +3,7 @@ import axios from 'axios'
 import { PieChart, Pie, Cell, Tooltip, Legend, ResponsiveContainer } from 'recharts'
 import './App.css'
 
-const API = 'http://localhost:3001/api'
+const API = 'https://expense-tracker-afxj.onrender.com/api'
 
 const CATEGORIES = ['Food', 'Transport', 'Bills', 'Entertainment', 'Other']
 const COLORS = ['#6366f1', '#f59e0b', '#10b981', '#ef4444', '#8b5cf6']
